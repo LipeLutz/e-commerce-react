@@ -13,6 +13,8 @@ export const Favorites = () =>{
     console.log(favItems)
 
     const { setPriceProducts } = useContext(ShopContext)
+
+    const teste = 22222
     
     setPriceProducts(0)
 
